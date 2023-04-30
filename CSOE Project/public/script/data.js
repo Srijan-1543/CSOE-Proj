@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "ioytrhndcv",
+    name: "Egg Puff",
+    price: 15,
+    desc: "",
+    img: "../image/eggpuff.jpg",
+  },
+  {
+    id: "jfhgbvnscs",
+    name: "Chicken Roll",
+    price: 20,
+    desc: "",
+    img: "../image/chickenroll.jpg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Cool Drink",
+    price: 20,
+    desc: "",
+    img: "../image/cooldrink.jpg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Chocolate",
+    price: 25,
+    desc: "",
+    img: "../image/chocolate.jpg",
+  },
+  {
+    id: "swic",
+    name: "Sandwich",
+    price: 20,
+    desc: "",
+    img: "../image/sandwich.jpg",
+  },
+  {
+    id: "suci",
+    name: "Biscuit",
+    price: 10,
+    desc: "",
+    img: "../image/biscuit.jpg",
+  },
+  {
+    id: "ome",
+    name: "Omelette",
+    price: 15,
+    desc: "",
+    img: "../image/omelette.jpg",
+  },
+  {
+    id: "cofu",
+    name: "Coffee",
+    price: 12,
+    desc: "",
+    img: "../image/coffee.jpg",
+  },
+];
